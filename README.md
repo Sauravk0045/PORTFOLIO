@@ -12,8 +12,11 @@
 * **Bootstrap:** For responsive design and layout.
 * **GitHub Pages:** For hosting the website.
   # Screenshots:
-![image](https://github.com/user-attachments/assets/0e08f656-bd99-499a-900b-1d3c424d56de)
-![image](https://github.com/user-attachments/assets/2d40ef91-608a-45d2-85b9-f520a01dfe09)
-![image](https://github.com/user-attachments/assets/8fc8a466-9d0a-4997-9e6c-769ed31cfa0d)
+![image](https://github.com/user-attachments/assets/3eb75bf7-5e85-41a2-83f7-77d82e2b5b7c)
+![image](https://github.com/user-attachments/assets/a144f4f9-bfe2-41f0-8b84-f829c1df8f6a)
+![image](https://github.com/user-attachments/assets/38e7fcc8-b230-4091-bf1a-3d606c5a2cf1)
+
+
 
 # Website Link:
+https://sauravk0045.github.io/portfolio
